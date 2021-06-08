@@ -1,0 +1,284 @@
+fileFormatVersion: 2
+guid: 7661f6303ea23f94dade33c0583497d9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bendy
+    100004: Bendy Armature
+    100006: Bendy_MeshPart0
+    100008: Bendy_MeshPart1
+    100010: bip_eye_L
+    100012: bip_eye_L_end
+    100014: bip_eye_R
+    100016: bip_eye_R_end
+    100018: bip_foot_L
+    100020: bip_foot_L_end
+    100022: bip_foot_R
+    100024: bip_foot_R_end
+    100026: bip_hand_L
+    100028: bip_hand_R
+    100030: bip_head
+    100032: bip_hip_L
+    100034: bip_hip_R
+    100036: bip_index_0_L
+    100038: bip_index_0_R
+    100040: bip_index_1_L
+    100042: bip_index_1_R
+    100044: bip_index_2_L
+    100046: bip_index_2_L_end
+    100048: bip_index_2_R
+    100050: bip_index_2_R_end
+    100052: bip_knee_L
+    100054: bip_knee_R
+    100056: bip_lowerArm_L
+    100058: bip_lowerArm_R
+    100060: bip_middle_0_L
+    100062: bip_middle_0_R
+    100064: bip_middle_1_L
+    100066: bip_middle_1_R
+    100068: bip_middle_2_L
+    100070: bip_middle_2_L_end
+    100072: bip_middle_2_R
+    100074: bip_middle_2_R_end
+    100076: bip_neck
+    100078: bip_pelvis
+    100080: bip_pinky_0_L
+    100082: bip_pinky_0_R
+    100084: bip_pinky_1_L
+    100086: bip_pinky_1_R
+    100088: bip_pinky_2_L
+    100090: bip_pinky_2_L_end
+    100092: bip_pinky_2_R
+    100094: bip_pinky_2_R_end
+    100096: bip_spine_0
+    100098: bip_spine_1
+    100100: bip_spine_2
+    100102: bip_thumb_0_L
+    100104: bip_thumb_0_R
+    100106: bip_thumb_1_L
+    100108: bip_thumb_1_R
+    100110: bip_thumb_2_L
+    100112: bip_thumb_2_L_end
+    100114: bip_thumb_2_R
+    100116: bip_thumb_2_R_end
+    100118: bip_upperArm_L
+    100120: bip_upperArm_R
+    100122: Camera
+    100124: Pipe
+    100126: Sun
+    100128: Sun.001
+    100130: Sun.002
+    100132: Sun.003
+    100134: Sun.004
+    100136: Sun_001
+    100138: Sun_002
+    100140: Sun_003
+    100142: Sun_004
+    100144: Sun_005
+    100146: Tie
+    100148: Tie_end
+    400000: //RootNode
+    400002: Bendy
+    400004: Bendy Armature
+    400006: Bendy_MeshPart0
+    400008: Bendy_MeshPart1
+    400010: bip_eye_L
+    400012: bip_eye_L_end
+    400014: bip_eye_R
+    400016: bip_eye_R_end
+    400018: bip_foot_L
+    400020: bip_foot_L_end
+    400022: bip_foot_R
+    400024: bip_foot_R_end
+    400026: bip_hand_L
+    400028: bip_hand_R
+    400030: bip_head
+    400032: bip_hip_L
+    400034: bip_hip_R
+    400036: bip_index_0_L
+    400038: bip_index_0_R
+    400040: bip_index_1_L
+    400042: bip_index_1_R
+    400044: bip_index_2_L
+    400046: bip_index_2_L_end
+    400048: bip_index_2_R
+    400050: bip_index_2_R_end
+    400052: bip_knee_L
+    400054: bip_knee_R
+    400056: bip_lowerArm_L
+    400058: bip_lowerArm_R
+    400060: bip_middle_0_L
+    400062: bip_middle_0_R
+    400064: bip_middle_1_L
+    400066: bip_middle_1_R
+    400068: bip_middle_2_L
+    400070: bip_middle_2_L_end
+    400072: bip_middle_2_R
+    400074: bip_middle_2_R_end
+    400076: bip_neck
+    400078: bip_pelvis
+    400080: bip_pinky_0_L
+    400082: bip_pinky_0_R
+    400084: bip_pinky_1_L
+    400086: bip_pinky_1_R
+    400088: bip_pinky_2_L
+    400090: bip_pinky_2_L_end
+    400092: bip_pinky_2_R
+    400094: bip_pinky_2_R_end
+    400096: bip_spine_0
+    400098: bip_spine_1
+    400100: bip_spine_2
+    400102: bip_thumb_0_L
+    400104: bip_thumb_0_R
+    400106: bip_thumb_1_L
+    400108: bip_thumb_1_R
+    400110: bip_thumb_2_L
+    400112: bip_thumb_2_L_end
+    400114: bip_thumb_2_R
+    400116: bip_thumb_2_R_end
+    400118: bip_upperArm_L
+    400120: bip_upperArm_R
+    400122: Camera
+    400124: Pipe
+    400126: Sun
+    400128: Sun.001
+    400130: Sun.002
+    400132: Sun.003
+    400134: Sun.004
+    400136: Sun_001
+    400138: Sun_002
+    400140: Sun_003
+    400142: Sun_004
+    400144: Sun_005
+    400146: Tie
+    400148: Tie_end
+    2000000: Camera
+    2300000: Pipe
+    3300000: Pipe
+    4300000: Pipe
+    4300002: Bendy_MeshPart0
+    4300004: Bendy_MeshPart1
+    4300006: Bendy
+    9500000: //RootNode
+    10800000: Sun
+    10800002: Sun.001
+    10800004: Sun.002
+    10800006: Sun.003
+    10800008: Sun.004
+    10800010: Sun_001
+    10800012: Sun_002
+    10800014: Sun_003
+    10800016: Sun_004
+    10800018: Sun_005
+    13700000: Bendy_MeshPart0
+    13700002: Bendy_MeshPart1
+    13700004: Bendy
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body_1
+    second: {fileID: 2100000, guid: dd07ae19520d2de408b932da87060527, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body_2
+    second: {fileID: 2100000, guid: 7da2d7b850d36144c9b236c00ef935d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body_3
+    second: {fileID: 2100000, guid: 1da23282cb46ee34599d3150629c6939, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dots
+    second: {fileID: 2100000, guid: 7edb1161eb315714fa2fa855a843bbbb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pipe
+    second: {fileID: 2100000, guid: 7ea013d5375a1da48b3f29a26f527bff, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0001
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
